@@ -9,11 +9,6 @@
 - 🎒 I have already learned about **HTML | CSS | JAVA**
 
 <br>
-<div align="left">
-  <a href="https://github.com/ricardorhv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardorhv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
-
 
 ## 
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
