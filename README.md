@@ -4,7 +4,7 @@
 
 - ### 🎓 I'm a Computer Technician at IFPR 
 - ### 👨‍💻 Front-end student and in love with back-end 
-- ### 💻 Studyng Software Engineering at FAG 1/4 
+- ### 💻 Studyng Software Engineering at FAG 2/4 
 
 <br>
 
@@ -22,6 +22,9 @@
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
 </div>
 
 <br>
@@ -30,7 +33,7 @@
 ## Contact
 
 <p>
-  <a href="https://instagram.com/ricardorhvv" target="_blank">
+  <a href="https://instagram.com/ricardorhv.dev" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
   <a href="mailto:ricardorhv.dev@gmail.com" target="_blank">
