@@ -4,6 +4,7 @@
 
 - ### 🎓 I'm a Computer Technician at IFPR 
 - ### 👨‍💻 Front-end student and in love with back-end 
+- ### 💼 Working as Integration Engineer at IOTA.HUB
 - ### 💻 Studyng Software Engineering at FAG 2/4 
 
 <br>
@@ -33,7 +34,7 @@
 ## Contact
 
 <p>
-  <a href="https://instagram.com/ricardorhv.dev" target="_blank">
+  <a href="https://instagram.com/ricardorhvv" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
   <a href="mailto:ricardorhv.dev@gmail.com" target="_blank">
