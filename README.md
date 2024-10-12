@@ -3,7 +3,8 @@
 <img align="right" width="300" src="./programming.gif" />
 
 - ### 🎓 I'm a Computer Technician at IFPR 
-- ### 👨‍💻 Front-end student and in love with back-end 
+- ### 👨‍💻 Front-end developer
+- ### 👨‍💻 Studying back-end
 - ### 💼 Working as Integration Engineer at IOTA.HUB
 - ### 💻 Studyng Software Engineering at FAG 2/4 
 
