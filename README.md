@@ -3,10 +3,9 @@
 <img align="right" width="300" src="./programming.gif" />
 
 - ### 🎓 I'm a Computer Technician at IFPR 
-- ### 👨‍💻 Front-end developer
-- ### 👨‍💻 Studying back-end
-- ### 💼 Working as Integration Engineer at IOTA.HUB
-- ### 💻 Studyng Software Engineering at FAG 2/4 
+- ### 👨‍💻 Software developer
+- ### 💼 Working as Integration Engineer at [iota.hub](https://iotaapp.com.br/)
+- ### 💻 Studyng Software Engineering at FAG 3/4 
 
 <br>
 
