@@ -4,7 +4,7 @@
 
 - ### 🎓 I'm a Computer Technician at IFPR 
 - ### 👨‍💻 Software developer
-- ### 💼 Working as Integration Engineer at [FZ Commerce]([https://iotaapp.com.br/](https://www.fzcommerce.com.br/))
+- ### 💼 Working as Front-end developer at [FZ Commerce]([https://iotaapp.com.br/](https://www.fzcommerce.com.br/))
 - ### 💻 Studyng Software Engineering at FAG 3/4 
 
 <br>
